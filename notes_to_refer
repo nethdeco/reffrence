@@ -1,0 +1,38 @@
+Useful books:
+
+    C++ in Action: Industrial Strength Programming. It is old and very basic, does not teach much about C++, but gives a solid base in OOP, iterative development, offensive programming (asserts everywhere). A very good book to start, IMO. It is available online for free.
+
+    Design Patterns: Elements of Reusable Object-Oriented Software (the Gang of Four classics). A must read. This was the most famous book on software architecture for 20 years.
+
+    Pattern-Oriented Software Architecture (5 volumes). This one brought together lots of patterns from other publications, including famous architectural patterns, e.g. Pipes and Filters, Reactor, Blackboard. It gives a good overview of whatever was there before the advent of Microservices.
+
+    Modern Operating Systems by Tanenbaum. Though not strictly a book on software architecture, it teaches about OS internals, and knowledge is power - you will be able to apply similar approaches while building your own software.
+
+    Domain-Driven Design: Tackling Complexity in the Heart of Software. The seminal book on DDD - an approach that is famous for its ability to deal with very complex projects.
+
+    Microservices Patterns: With examples in Java by Chris Richardson. It describes the modern approach to building distributed systems.
+
+    Designing Data-Intensive Applications by Martin Kleppman. It teaches about database internals and distributed systems.
+
+    AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis. One needs to know one's enemy.
+
+    Peopleware. Know your programmers and what they hate.
+
+    Organizational Patterns of Agile Software Development. 100 ways to set up communication and avoid common organizational pitfalls.
+
+There are some good sites as well:
+
+    http://ithare.com/ - Actors, high-load C++, etc.
+
+    https://www.agner.org/optimize/ - Optimizations for C++ performance.
+
+    http://www.dietmar-kuehl.de/mirror/c++-faq/index.html - C++ under the hood.
+
+    https://martinfowler.com/ - Miscellaneous stuff on system architecture.
+
+    https://www.hillside.net/index.php/past-plop-conferences#Past%20PLoP%20Conferences - An endless pit of patterns, first years are good.
+
+    http://www.laputan.org/mud/ - Big Ball of Mud, the most widely used architectural style.
+
+    https://www.bruceblinn.com/parable.html - A must read for every programmer.
+    
